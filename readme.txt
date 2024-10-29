@@ -3,5 +3,4 @@
 2024-10-29 17:40 add a new branch dev.
 		 and we can user "git switch <branch>" change to a new branch, use "git switch -c <branch>" to create and switch to a new branch.  
 
-
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
